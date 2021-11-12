@@ -16,7 +16,7 @@ Raspberry Pi CM4 that plugs directly to TV/monitor
 - Connector for Ambilight-like lightning with WS2812 or WS2801 LEDs (GND, GPIO18, GPIO10 and GPIO11)
 
 ## Availability
-Late September, to be announced. 
+Online store: https://mbs-shop.online/
 
 Follow on Twitter: [@magic__smoke](https://twitter.com/magic__smoke)
 
