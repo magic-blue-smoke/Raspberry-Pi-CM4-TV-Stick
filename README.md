@@ -15,9 +15,6 @@ Raspberry Pi CM4 that plugs directly to TV/monitor
 - 14 GPIOs, as well as GND, 5V and 3.3V solder pads on reverse side of PCB for hacking 
 - Connector for Ambilight-like lightning with WS2812 or WS2801 LEDs (GND, GPIO18, GPIO10 and GPIO11)
 
-## Availability
-Online store: https://mbs-shop.online/
-
 Follow on Twitter: [@magic__smoke](https://twitter.com/magic__smoke)
 
 ![TV Stick](TVStickR4_4.jpeg)
