@@ -1,6 +1,9 @@
 # Raspberry Pi CM4 TV Stick
 Raspberry Pi CM4 that plugs directly to TV/monitor
 
+# Availability
+Raspberry Pi CM4 TV Stick is now available at [Makerfabs](https://www.makerfabs.com/raspberry-pi-cm4-tv-stick.html)
+
 ## Specs
 - Compatible with Raspberry Pi CM4 eMMC and no-eMMC
 - HDMI plug
