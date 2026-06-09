@@ -2,6 +2,8 @@
 Raspberry Pi CM4 that plugs directly to TV/monitor
 
 # Availability
+**New version!** Raspberry Pi CM5 TV Stick Lite is available now: [Buy at Makerfabs](https://www.makerfabs.com/raspberry-pi-cm5-tv-stick-lite.html), more info [github](https://github.com/magic-blue-smoke/Raspberry-Pi-CM5-TV-Stick)
+
 Raspberry Pi CM4 TV Stick is now available at [Makerfabs](https://www.makerfabs.com/raspberry-pi-cm4-tv-stick.html)
 
 ## Specs
